@@ -1,2 +1,0 @@
-# hen
-percobaan 1
